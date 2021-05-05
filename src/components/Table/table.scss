@@ -1,0 +1,27 @@
+.table-container {
+  margin-top: 40px;
+
+  .button {
+    margin-left: auto;
+    display: block;
+  }
+
+  .table {
+    width: 100%;
+    border: 1px solid #ababab;
+    border-collapse: collapse;
+    margin-top: 20px;
+
+    th, td {
+      padding: 10px;
+      border: 1px solid #ababab;
+      text-align: center;
+
+      img {
+        width: 20px;
+        cursor: pointer;
+      }
+    }
+
+  }
+}

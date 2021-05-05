@@ -1,0 +1,34 @@
+{
+  "quiz": [
+    {
+      "created": "2021-05-05T13:51:53.555Z",
+      "description": "czxc",
+      "id": 14,
+      "modified": "2021-05-05T13:51:53.555Z",
+      "score": null,
+      "title": "dcxcz",
+      "url": "xczx",
+      "questions_answers": [
+        {
+          "id": 104,
+          "answer_id": null,
+          "feedback_false": "czxcz",
+          "feedback_true": "czx",
+          "text": "zxczx",
+          "answers": [
+            {
+              "id": 1008,
+              "is_true": true,
+              "text": "xcz"
+            },
+            {
+              "id": 1009,
+              "is_true": false,
+              "text": "czxcx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+.answer-form {
+  display: flex;
+  align-items: center;
+  width: 100%;
+
+  .input-content {
+    width: 100%;
+  }
+
+  &-input {
+    margin-right: 10px;
+  }
+
+  &-is_true {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    cursor: pointer;
+
+    label {
+      font-size: 14px;
+      color: #444;
+      cursor: pointer;
+    }
+
+    input {
+      cursor: pointer;
+    }
+  }
+}
